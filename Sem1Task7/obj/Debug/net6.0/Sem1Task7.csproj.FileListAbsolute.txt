@@ -1,0 +1,16 @@
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\bin\Debug\net6.0\Sem1Task7.exe
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\bin\Debug\net6.0\Sem1Task7.deps.json
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\bin\Debug\net6.0\Sem1Task7.runtimeconfig.json
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\bin\Debug\net6.0\Sem1Task7.dll
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\bin\Debug\net6.0\ref\Sem1Task7.dll
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\bin\Debug\net6.0\Sem1Task7.pdb
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.GlobalUsings.g.cs
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.AssemblyInfo.cs
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.dll
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\ref\Sem1Task7.dll
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.pdb
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem1Task7\obj\Debug\net6.0\Sem1Task7.genruntimeconfig.cache
