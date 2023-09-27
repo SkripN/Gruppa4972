@@ -1,0 +1,6 @@
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem4Task29add\obj\Debug\net6.0\Sem4Task29add.GlobalUsings.g.cs
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem4Task29add\obj\Debug\net6.0\Sem4Task29add.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem4Task29add\obj\Debug\net6.0\Sem4Task29add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem4Task29add\obj\Debug\net6.0\Sem4Task29add.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem4Task29add\obj\Debug\net6.0\Sem4Task29add.AssemblyInfo.cs
+C:\Users\Vic\Desktop\GB Gruppa4972\Gruppa4972\Sem4Task29add\obj\Debug\net6.0\Sem4Task29add.csproj.CoreCompileInputs.cache
