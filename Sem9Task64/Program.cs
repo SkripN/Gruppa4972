@@ -1,22 +1,21 @@
 ﻿// Задача 64: Задайте значения N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1.
 // N = 5. -> "5, 4, 3, 2, 1"
 // N = 8. -> "8, 7, 6, 5, 4, 3, 2, 1"
-
-Консоль.Write("Введите число: ");
-= преобразование  числав целое число.,,ToInt32(консоль.Строка чтения());
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
 int count = 1;
-Естественное значение(число, количество);
+NaturalToLow(number, count);
 
 
-аннулирует NaturalToLow(int n, int count)
+void NaturalToLow(int n, int count)
 {
-    если (количество > n)
+    if (count > n)
     {
-        возврат;
+        return;
     }
-    ещё
+    else
     {
- Естественное течение(n, количество + 1);
- Консоль.Написать(граф + " ");
+        NaturalToLow(n, count + 1);
+        Console.Write(count + " ");
     }
 }
